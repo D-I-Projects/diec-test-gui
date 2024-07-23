@@ -1,17 +1,28 @@
-import customtkinter as ctk - MIT License / https://github.com/TomSchimansky/CustomTkinter - Copyright (c) 2023 Tom Schimansky
+# Import CustomTkinter library - MIT License
+# Source: https://github.com/TomSchimansky/CustomTkinter
+# Copyright (c) 2023 Tom Schimansky
+import customtkinter as ctk
 
-import diec - MIT License - https://github.com/D-I-Projects/diec - Copyright (c) 2024 D&I Projects
+# Import diec library - MIT License
+# Source: https://github.com/D-I-Projects/diec
+# Copyright (c) 2024 D&I Projects
+import diec
 
-from CTkMenuBar import CTkMenuBar - CC0 1.0 Universal - https://github.com/Akascape/CTkMenuBar
+# Import CTkMenuBar module - CC0 1.0 Universal
+# Source: https://github.com/Akascape/CTkMenuBar
+from CTkMenuBar import CTkMenuBar
 
-from CTkMessagebox import CTkMessagebox - CC0 1.0 Universal - https://github.com/Akascape/CTkMessagebox
+# Import CTkMessagebox module - CC0 1.0 Universal
+# Source: https://github.com/Akascape/CTkMessagebox
+from CTkMessagebox import CTkMessagebox
 
-from plyer import notification - MIT License - https://github.com/kivy/plyer - Copyright (c) 2010-2023 Kivy Team and other contributors
+# Import plyer library for notifications - MIT License
+# Source: https://github.com/kivy/plyer
+# Copyright (c) 2010-2023 Kivy Team and other contributors
+from plyer import notification
 
-import os - Standard Libary
-
-import subprocess - Standard Libary 
-
-import sys - Standard Libary
-
-from tkinter import messagebox, filedialog - Standard Libary
+# Import standard library modules
+import os
+import subprocess
+import sys
+from tkinter import messagebox, filedialog
