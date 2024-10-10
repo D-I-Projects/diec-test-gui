@@ -14,7 +14,7 @@ app.title("diec-test-gui")
 app.resizable(False, False)
 
 def info_messagebox():
-    CTkMessagebox(title="diec-test-gui", message="Package: diec\nPyPi Version: 1.8\nRelease Date: 19.07.2024\nMade by: D&I Projects")
+    CTkMessagebox(title="diec-test-gui", message="Package: diec\nPyPi Version: 2.0\nRelease Date: 09.10.2024\nMade by: D&I Projects")
 
 def restart_gui():
     app.destroy()
